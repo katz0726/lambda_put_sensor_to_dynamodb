@@ -1,0 +1,1 @@
+# lambda_put_sensor_to_dynamodb
